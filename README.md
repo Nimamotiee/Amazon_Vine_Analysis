@@ -8,12 +8,12 @@ In this project, you’ll have access to approximately 50 datasets. Each one con
 
 
 
-SUMMARY
+### SUMMARY
 The majority of reviews for Furniture product are almost nothing or lower results from Vine participants: 99.6% are Non-Vine.
 And overall of all 5 Star reviews are also the same as the Furniture, all are from Vine participants: 99.7% of all 5-star reviews are non-Vine.
 But we need to highlight that not all of the 5 Star reviews are coming from Vine participants.
 
-RECOMMENDATIONS:
+### RECOMMENDATIONS:
 Below some recommendations to follow:
 
 The Amazon Vine Analysis provide a favorable dataset on the 5-star rating.
